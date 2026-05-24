@@ -3,7 +3,7 @@
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-py3 -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 source setup.sh
 ```
@@ -12,8 +12,8 @@ source setup.sh
 
 Ejecute los siguientes comandos en el terminal:
 
-```bat
-py3 -m venv .venv
+```bash
+python3 -m venv .venv
 .venv\Scripts\activate
 setup
 ```
